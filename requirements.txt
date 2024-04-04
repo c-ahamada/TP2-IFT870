@@ -4,3 +4,7 @@ matplotlib
 plotly
 seaborn
 scikit-learn
+keras
+tqdm
+tensorflow==2.15
+scikeras
