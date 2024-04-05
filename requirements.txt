@@ -3,4 +3,7 @@ numpy
 matplotlib
 plotly
 seaborn
+keras
+scikeras==0.12.0
+tensorflow==2.15.0
 scikit-learn
